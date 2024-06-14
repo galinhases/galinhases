@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola meu nome é João Gabriel, estou estudando no Alura 
 
 <!--
 **galinhases/galinhases** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
